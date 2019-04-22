@@ -64,7 +64,7 @@ class ClickityClick extends React.Component {
   }
 }
 
-export default ClickityClick;
+
 
 // src/index.js
 import React from 'react';
